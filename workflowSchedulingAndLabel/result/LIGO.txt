@@ -1,0 +1,14 @@
+used methods: Method1uRank	Method6	Method3	
+
+success ratio
+0.020	1.000	1.000	1.000	
+
+
+
+normalized cost
+0.020	3.524	4.116	4.692	
+
+
+
+reference values (CF, MF, CC, MC)
+504.54545454545456	278.5769636363636	3.9054545454545453	115357.52654545456	
